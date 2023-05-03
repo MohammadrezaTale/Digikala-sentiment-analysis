@@ -1,2 +1,2 @@
-This is sentiment analysis based on Digikala review
+This is sentiment analysis project based on Digikala reviews
 
